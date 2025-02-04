@@ -3,9 +3,9 @@
 
 <p align="right"><img style="width:240px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s" /> </p>
 
-- 🔭 I’m currently working on *Enhancing the accuracy of NLP base Project*
+- 🔭 I’m currently working on *Generative AI Project*
 
-- 🌱 I’m currently learning *Transformer*
+- 🌱 I’m currently learning *Agentic AI*
 
 - 💬 Ask me about *Machine learning, Deep learning, NLP, Predictive Modeling and Solving Real-World Data Challenges*
 
