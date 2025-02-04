@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshay Goel</h1>
-<h3 align="center">Passionate Data Scientist | Enthusiast in Machine Learning, Deep Learning and NLP</h3>
+<h3 align="center">Passionate Data Scientist | Enthusiast in Machine Learning, Deep Learning, NLP & Generative AI</h3>
 
 <p align="right"><img style="width:240px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s" /> </p>
 
